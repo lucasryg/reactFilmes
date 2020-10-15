@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,500,700&display=swap');
+
+.header{
+    background-color: #9bd2de;
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+
+h1{
+    font:400 20px Roboton, sans-serif ;
+}
+
+a{
+    font:400 14px Roboton, sans-serif ;
+}
+
+nav{
+    width: 100%;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#buttonsNav
+{
+    display: flex;
+    justify-content: flex-end;
+    justify-content: space-around;
+    width: 20%;
+}
+
+h1{
+    padding-top: 5px;
+}
+
+
+
+
+

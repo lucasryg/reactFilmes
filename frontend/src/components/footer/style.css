@@ -1,0 +1,39 @@
+footer
+{
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    height: 20%;
+    width: 100%;
+    background-color: #e7532d;
+}
+p{
+    font:400 14px Roboton, sans-serif ;
+    padding: 5px;
+}
+
+#verticle-line
+{
+    width: 1px;
+    height: 80%;
+    background-color: white;
+
+}
+
+#leftFooter
+{
+    display: flex;
+    width: 45%;
+    justify-content: flex-end;
+}
+
+#rightFooter
+{
+    width: 45%;
+    
+
+}
+

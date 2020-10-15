@@ -1,0 +1,15 @@
+.buttonMain{
+    width: 80%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+ 
+.button{
+    width: 180px;
+    height: 58px;
+    background-color: #F6511D;
+    border: 0;
+    color: #ffff;
+    
+}

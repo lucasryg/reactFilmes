@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+p{
+    color: black;
+}
+
+a{
+    text-decoration: none;
+}
+
+h1{
+    font-size: 36px;
+    line-height: 42px;
+    display: flex;
+    justify-content: center;
+}
+
+h3{
+    font-size: 27px;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,500,700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h2,h1{
+    color: black;
+    
+}
+
+
+
+body{
+    font-family: Roboton, sans-serif ;
+    color: black;
+}
+
+.Categorias{
+    display: flex;
+
+}
+
+
+
+
+
+#fotoCinema{
+    height: 100px;
+    width: 100px;
+
+}
+
+
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+}
+
+.centro{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+
